@@ -1,2 +1,2 @@
 # Code-Availability
-Code availability for Lehtiö lab papers 
+This repository stores the codes that were implemented in publications published by Lehtio lab. 
