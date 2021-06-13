@@ -1,10 +1,10 @@
 # Code Availability
-This repository stores the codes that were implemented in publications published by Lehtio lab.
+This repository stores the codes that are implemented in publications published by Lehtio lab.
 
 ## How to add codes for the publication
 For each publication, create a folder as described below and contain all related files. 
 
-For the simpicity and systematically, please follow the simple guidline for the upcomig codes.
+For simplicity and systematic, please follow the simple guideline for the upcoming codes.
 
 [First_Author_et_al]\_[Journal]\_[year] 
 
